@@ -2,6 +2,7 @@
 
 Speech Recognition using Deep Neural Networks
 
-The 3rd project of the Natural Language Processing Nanodegree by Udacity.
+The 3rd project of the Udacity Natural Language Processing Nanodegree.
+
 
 
